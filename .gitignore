@@ -1,2 +1,5 @@
-
+dataset/
 .DS_Store
+config.py
+.ipynb_checkpoints
+__pycache__/
