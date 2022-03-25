@@ -1,5 +1,6 @@
 dataset/
 .DS_Store
-config.py
 .ipynb_checkpoints
 __pycache__/
+Ambiente/
+gif/
